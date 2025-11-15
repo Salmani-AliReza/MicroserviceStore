@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\App\\MicroserviceStore\\ProductService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\model\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\model\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\model\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\model\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\model\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\model\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\controllers\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\model\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\model\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|g:\\app\\microservicestore\\productservice\\productservice\\infrastructure\\contexts\\productdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86503255-EF41-458E-A74F-50A8CEBF513F}|ProductService\\ProductService.csproj|solutionrelative:productservice\\infrastructure\\contexts\\productdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductAdminController.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Controllers\\ProductAdminController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductAdminController.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Controllers\\ProductAdminController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:17:22.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:01:57.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\CategoryController.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:51:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Model\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductService\\Model\\Entities\\Product.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Model\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductService\\Model\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:36:20.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Model\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductService\\Model\\Services\\IProductService.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Model\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductService\\Model\\Services\\IProductService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADgvzwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:19:20.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Model\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ProductService\\Model\\Services\\ICategoryService.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Model\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "ProductService\\Model\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:06:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:40:11.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductService\\appsettings.json",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\appsettings.json",
+              "RelativeToolTip": "ProductService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T18:37:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Model\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ProductService\\Model\\Entities\\Category.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Model\\Entities\\Category.cs",
+              "RelativeToolTip": "ProductService\\Model\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:33:34.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDataBaseContext.cs",
+              "DocumentMoniker": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Infrastructure\\Contexts\\ProductDataBaseContext.cs",
+              "RelativeDocumentMoniker": "ProductService\\Infrastructure\\Contexts\\ProductDataBaseContext.cs",
+              "ToolTip": "G:\\App\\MicroserviceStore\\ProductService\\ProductService\\Infrastructure\\Contexts\\ProductDataBaseContext.cs",
+              "RelativeToolTip": "ProductService\\Infrastructure\\Contexts\\ProductDataBaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:42:49.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
