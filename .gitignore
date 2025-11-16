@@ -1,0 +1,56 @@
+# پوشه‌های بیلد (bin و obj) برای همه پروژه‌ها
+**/bin/
+**/obj/
+
+# فایل‌های تنظیمات کاربر (Visual Studio / Rider / VS Code)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# پوشه‌های تنظیمات محلی
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# فایل‌های NuGet
+*.nupkg
+packages/
+!packages/build/
+*.snk
+*.nuspec
+
+# فایل‌های لاگ و موقت
+*.log
+*.tmp
+*.cache
+*.vs/
+*.vscode/
+*.idea/
+
+# فایل‌های تست و coverage
+[Tt]est[Rr]esult*/
+*.coverage
+*.coveragexml
+
+# فایل‌های Docker (اگر استفاده می‌کنید)
+Dockerfile.*
+!.dockerignore
+
+# فایل‌های محیطی
+.env
+.env.local
+.env.*.local
+appsettings.*.json
+!appsettings.json
+!appsettings.Development.json
+
+# فایل‌های منتشر شده
+publish/
+wwwroot/

@@ -63,8 +63,7 @@
               "RelativeToolTip": "DiscountService\\Proto\\DiscountProtobuf.proto",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-11-15T18:39:17.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T18:39:17.224Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "DiscountService\\Infrastructure\\MappingProfile\\DiscountMappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T17:39:22.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T17:39:22.971Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "DiscountService\\Model\\Services\\IDiscountService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T17:27:59.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T17:27:59.652Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "DiscountService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T17:24:53.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T17:24:53.178Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "DiscountService\\Infrastructure\\Contexts\\DiscountDataBaseContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T17:15:54.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T17:15:54.852Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "DiscountService\\Model\\Entities\\DiscountCode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T17:10:10.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T17:10:10.086Z"
             }
           ]
         }
