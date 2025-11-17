@@ -1,2 +1,0 @@
-obj\Debug\net9.0\Proto/DiscountProtobuf.cs \
-obj\Debug\net9.0\Proto/DiscountProtobufGrpc.cs: Proto/DiscountProtobuf.proto
